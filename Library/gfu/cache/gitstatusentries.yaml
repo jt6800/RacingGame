@@ -1,0 +1,131 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1dd4, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 5
+  lastUpdatedAtString: 2018-12-05T10:01:45.061-05:00
+  initializedAtString: 2018-12-05T09:53:06.077-05:00
+  entries:
+  - path: Library\assetDatabase3
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\assetDatabase3
+    projectPath: Library\assetDatabase3
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentLayout.dwlt
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\CurrentLayout.dwlt
+    projectPath: Library\CurrentLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\CurrentMaximizeLayout.dwlt
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\CurrentMaximizeLayout.dwlt
+    projectPath: Library\CurrentMaximizeLayout.dwlt
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\EditorInstance.json
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\EditorInstance.json
+    projectPath: Library\EditorInstance.json
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\branches.yaml
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\gfu\cache\branches.yaml
+    projectPath: Library\gfu\cache\branches.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlocks.yaml
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\gfu\cache\gitlocks.yaml
+    projectPath: Library\gfu\cache\gitlocks.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitlog.yaml
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\gfu\cache\gitlog.yaml
+    projectPath: Library\gfu\cache\gitlog.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gitstatusentries.yaml
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\gfu\cache\gitstatusentries.yaml
+    projectPath: Library\gfu\cache\gitstatusentries.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\gittrackingstatus.yaml
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\gfu\cache\gittrackingstatus.yaml
+    projectPath: Library\gfu\cache\gittrackingstatus.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\gfu\cache\repoinfo.yaml
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\gfu\cache\repoinfo.yaml
+    projectPath: Library\gfu\cache\repoinfo.yaml
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Library\metadata\00\00000000000000005100000000000000
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\metadata\00\00000000000000005100000000000000
+    projectPath: Library\metadata\00\00000000000000005100000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000008000000000000000
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\metadata\00\00000000000000008000000000000000
+    projectPath: Library\metadata\00\00000000000000008000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Library\metadata\00\00000000000000009000000000000000
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Library\metadata\00\00000000000000009000000000000000
+    projectPath: Library\metadata\00\00000000000000009000000000000000
+    originalPath: 
+    status: 3
+    staged: 0
+  - path: Temp\__Backupscenes\0.backup
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Temp\__Backupscenes\0.backup
+    projectPath: Temp\__Backupscenes\0.backup
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityLockfile
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Temp\UnityLockfile
+    projectPath: Temp\UnityLockfile
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-13f204e42b5443f4c894060144d6836a
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Temp\UnityTempFile-13f204e42b5443f4c894060144d6836a
+    projectPath: Temp\UnityTempFile-13f204e42b5443f4c894060144d6836a
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-632ce6cf8a1daf94badbffda202acad5
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Temp\UnityTempFile-632ce6cf8a1daf94badbffda202acad5
+    projectPath: Temp\UnityTempFile-632ce6cf8a1daf94badbffda202acad5
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ca9c1c1d66f86bb44b7026534891c7f0
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Temp\UnityTempFile-ca9c1c1d66f86bb44b7026534891c7f0
+    projectPath: Temp\UnityTempFile-ca9c1c1d66f86bb44b7026534891c7f0
+    originalPath: 
+    status: 1
+    staged: 0
+  - path: Temp\UnityTempFile-ef0f7441f5c28c749bac33d58a000e29
+    fullPath: C:\Users\jt6800\Documents\RacingGame\Temp\UnityTempFile-ef0f7441f5c28c749bac33d58a000e29
+    projectPath: Temp\UnityTempFile-ef0f7441f5c28c749bac33d58a000e29
+    originalPath: 
+    status: 1
+    staged: 0
